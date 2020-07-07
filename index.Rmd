@@ -27,7 +27,7 @@ Des remarques, des coquilles à signaler ? Utilisez [ce fil d'annotation](https:
 * Un visualiseur et un éditeur d'annotations qui s'exécutent en superposition au document dans un navigateur soit grâce à une extension pour le navigateur Google Chrome,  soit à l'aide d'un marque-page (bookmarklet).
 * Un service qui stocke, recherche et affiche les annotations, gère les utilisateurs et les groupes, et fournit le client dans des pages qui ont été annotées.
 
-![how its work](img/05@2x.png)
+![Comment ça marche ?](img/05@2x.png)
 
 * Une fois hypothesis installé, il suffit de sélectionnez le texte à annoter puis d'ajouter vos commentaires ou des mot-clés (tags) avant de publier publiquement ou non vos annotations. 
 * Vous pouvez partager vos annotations à l'aide d'un lien vers une annotation ou une page. vous pouvez également répondre à toute annotation.

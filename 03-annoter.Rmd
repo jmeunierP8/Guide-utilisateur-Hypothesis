@@ -6,7 +6,7 @@ Pour annoter un document, vous devez :
 * Activez hypothesis en cliquant sur le bouton de l’extension (Chrome), le signet (autres navigateur) ou en collant le lien dans via hypothesis
 * Ouvrez le volet hypothesis et si ce n’est pas encore fait, connectez-vous à votre compte.
 
-![](img/ae9a3a75e6c3a239c6fede86ebe4fa7d.png)
+![Ouvrir hypothesis](img/ae9a3a75e6c3a239c6fede86ebe4fa7d.png)
 
 * Sélectionnez du texte et annotez. Pour cela, vous devez saisir votre commentaire dans le champ texte. Vous disposez de quelques boutons de mise en forme et pouvez ajouter des liens, des images ou des formules mathématiques^[Les formules doivent respecter la syntaxe Latex. Si vous ne la connaissez pas, utilisez ce site pour écrire votre formule : <https://www.codecogs.com/latex/eqneditor.php> puis coller le code dans votre annotation entre deux symboles /$].
 * Vous pouvez également ajouter des mots-clés en les saisissant dans le champ « Add tags »
@@ -14,14 +14,12 @@ Pour annoter un document, vous devez :
 Vous devez ensuite valider votre annotation. Pour cela cliquez sur le bouton noir sous les mots-clés, puis sélectionnez le mode de publication : privé (Post to me) ou public (Post to public). Si vous travaillez dans un groupe, vous pouvez également publier l’annotation pour le groupe. Le menu vous proposera alors une option Post to « *nom-du-groupe *». 
 
 `r if (knitr::is_html_output()) '
-![](img/img-5.gif)
+![Comment annoter (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))](img/img-5.gif)
 '`
 `r if (knitr::is_latex_output()) '
-![](img/img-5.png)
+![Comment annoter (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))](img/img-5.png)
 '`
 '`
-
-Comment annoter (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))
 
 ## Conseils pour bien annoter{#s31}
 Voici cinq bonnes pratiques à avoir en têtes lorsque vous annotez.

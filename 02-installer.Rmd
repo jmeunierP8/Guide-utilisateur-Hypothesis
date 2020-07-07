@@ -10,7 +10,7 @@ Vous devez installer l'extension Chrome ou ajouter le marque-page à votre navig
 
 Lorsque vous utilisez Google Chrome, suivez [ce lien vers l'extension Hypothesis dans la boutique en ligne de Chrome](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek). Cliquez sur "**AJOUTER A CHROME**" :
 
-![](img/94d5e4f1e0139b6a3709c5bfecad0737.png)
+![Installer l'extension](img/94d5e4f1e0139b6a3709c5bfecad0737.png)
 
 ## Installer le signet{#s22}
 Pour ceux qui utilisent Firefox, Safari ou d'autres navigateurs, le signet fournit un moyen facile d'utiliser Hypothesis dans le navigateur de votre choix. (Rappel : Si votre navigateur préféré est Chrome, veuillez consulter ces instructions pour [installer l'extension Chrome](#s21)).
@@ -19,7 +19,7 @@ Pour ceux qui utilisent Firefox, Safari ou d'autres navigateurs, le signet fourn
 * Sur le côté droit, vous verrez un bouton "Hypothesis Bookmarklet".
 * Glissez et déposez le bouton dans votre barre de signets, ou cliquez sur le bouton droit et sélectionnez "*bookmark this link*" dans le menu contextuel.
 
-![](img/10bf5d0ce6574ed9cbaa1f7df259038a.png)
+![Installer le signet](img/10bf5d0ce6574ed9cbaa1f7df259038a.png)
 
 ## Coller un lien sur via.hypothesis{#s23}
 Cette option est à utiliser lorsque l'extension ou le signet ne fonctionne pas ou que vous n'avez pas la possibiité de les installer.
@@ -30,6 +30,6 @@ Cette option est à utiliser lorsque l'extension ou le signet ne fonctionne pas 
 
 Note : Vous retrouverez ce lien sur n’importe que page du site [hypothesis](https://web.hypothes.is/) en cliquant en haut à droite sur [Paste a link](https://via.hypothes.is/).
 
-![](img/31f63f99822907f0d22ec643cca557dd.png)
+![Paste a link](img/31f63f99822907f0d22ec643cca557dd.png)
 
 

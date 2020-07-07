@@ -8,11 +8,11 @@ Chaque élément dans hypothesis possède sa propre URL et peut ainsi être part
 
 Vous pouvez partager toutes les annotations d’une page web ou d’un document. Pour cela ouvrez le volet d’annotation et cliquez sur l’icone ![](img/9ed8e6410bcd25e02923bf774a7fb2fe.png) en haut à droite du volet. Vous aurez ainsi accès au lien de partage de la page qu’il vous suffira d’envoyer à votre correspondant.
 
-![](img/cdbebac10f9bd02f38ed117c1ab8e322.png)
+![Partager un fil d'annotations](img/cdbebac10f9bd02f38ed117c1ab8e322.png)
 
 ## Partager une annotation{#s42}
 
 Vous pouvez ne partager qu’une annotation ou une réponse à une annotation. Après l’avoir repérée dans le fil d’annotation (voir la [section 7](#s7)), cliquez sur le lien de partage sous l’annotation ![](img/9ed8e6410bcd25e02923bf774a7fb2fe.png), puis comme précédemment copiez le lien et envoyez-le.
 
-![](img/cb6bdc80ca52dfbde7f2cb85ae981643.png)
+![Partager une annotation](img/cb6bdc80ca52dfbde7f2cb85ae981643.png)
 
