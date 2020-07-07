@@ -4,4 +4,4 @@ Ce manuel propose une synthèse en français des [tutoriels pour hypothesis](htt
 
 Le manuel a été développé en r mardown sous Rstudio. Si vous souhaitez l'enrichir, vous pouvez récupérer le projet. Merci de faire profiter é de la nouvelle version à la communauté
 
-<a href="https://jmeunierp8.github.io/Guide-utilisateur-Hypothesis/"><img src="consulter.png" alt="voir le guide"/></a>
+<a href="https://jmeunierp8.github.io/Guide-utilisateur-Hypothesis/"><img src="consulter.PNG" alt="voir le guide"/></a>
