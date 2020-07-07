@@ -1,0 +1,7 @@
+# Modification ou suppression d’une annotation{#s5}
+
+Sous chaque annotation vous avez un bouton en forme de crayon vous permettant de modifier celle-ci et un autre en forme de poubelle pour la supprimer.
+
+![](img/523575cc7eaccc9577140afd392b9710.gif)
+
+Modifier ou supprimer une annotation (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))

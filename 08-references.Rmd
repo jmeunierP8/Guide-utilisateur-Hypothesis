@@ -1,0 +1,5 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+La maison des revues (2019). « Hypothes.is : Guide utilisateur Se repérer ». La maison des revues. Site d’information et d’accompagnement éditorial. http://www.maisondesrevues.org/1182
+
