@@ -16,9 +16,9 @@ biblio-style: apalike
 
 # ![](img/hypothesislogomark.png) {-}
 
-Ce manuel propose une synthèse en français des [tutoriels pour hypothesis](https://web.hypothes.is/help-categories/tutorials/). Je l'ai rédigé pour les étudiants de l'institut d'enseignement à distance de [l'université Paris 8](https://www.univ-paris8.fr/). Il est mis à disposition sous licence creative commons NC-BY-SA. 
+Ce manuel propose une synthèse en français des [tutoriels pour hypothesis](https://web.hypothes.is/help-categories/tutorials/). Je l'ai rédigé pour les étudiants de l'institut d'enseignement à distance de [l'université Paris 8](https://www.univ-paris8.fr/). Il est mis à disposition sous [licence creative commons CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). 
 
-Des remarques, des coquilles à signaler ? Utilisez [ce fil d'annotation](https://hyp.is/go?url=https%3A%2F%2Fjmeunierp8.github.io%2FGuide-utilisateur-Hypothesis%2F&group=__world__) pour les signaler. 
+Des remarques, des coquilles ? Utilisez [ce fil d'annotation](https://hyp.is/go?url=https%3A%2F%2Fjmeunierp8.github.io%2FGuide-utilisateur-Hypothesis%2F&group=__world__) pour les signaler. 
 
 ## A quoi ça sert ? {-}
 
