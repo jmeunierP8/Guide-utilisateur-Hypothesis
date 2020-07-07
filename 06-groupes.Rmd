@@ -33,6 +33,15 @@ Lorsque vous annotez un document dans un groupe, vous pouvez faire des annotatio
 
 Dans un certain nombre de cas, vous pouvez avoir à répondre à une annotation. Dans ce cas, ouvrez le document sous hypothesis et cherchez l’annotation (voir [section 7](#s7), puis cliquez sur la flèche sous l’annotation à laquelle vous voulez répondre,  saisissez votre réponse et validez-la (Clic sur « Post to …)
 
+
+`r if (knitr::is_html_output()) '
 ![](img/30f5eff1df71626cf0748cd0af596424.gif)
+
+'`
+
+`r if (knitr::is_latex_output()) '
+![](img/30f5eff1df71626cf0748cd0af596424.png)
+
+'`
 
 Répondre à une annotation (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))

@@ -18,12 +18,14 @@ biblio-style: apalike
 
 Ce manuel propose une synthèse en français des [tutoriels pour hypothesis](https://web.hypothes.is/help-categories/tutorials/). Je l'ai rédigé pour les étudiants de l'institut d'enseignement à distance de [l'université Paris 8](https://www.univ-paris8.fr/). Il est mis à disposition sous licence creative commons NC-BY-SA.
 
+Des remarques, des coquilles à signaler ? Utilisez [ce fil d'annotation](https://hyp.is/go?url=https%3A%2F%2Fjmeunierp8.github.io%2FGuide-utilisateur-Hypothesis%2F&group=__world__) pour les signaler. 
+
+## A quoi ça sert ? {-}
+
 [Hypothesis](https://web.hypothes.is/) fournit un ensemble de composants qui fonctionnent ensemble pour permettre un large éventail d'applications basées sur l'annotation. ces composants sont : 
 
 * Un visualiseur et un éditeur d'annotations qui s'exécutent en superposition au document dans un navigateur soit grâce à une extension pour le navigateur Google Chrome,  soit à l'aide d'un marque-page (bookmarklet).
 * Un service qui stocke, recherche et affiche les annotations, gère les utilisateurs et les groupes, et fournit le client dans des pages qui ont été annotées.
-
-## A quoi ça sert ? {-}
 
 ![how its work](img/05@2x.png)
 

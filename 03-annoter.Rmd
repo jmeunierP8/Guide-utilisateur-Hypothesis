@@ -13,7 +13,13 @@ Pour annoter un document, vous devez :
 
 Vous devez ensuite valider votre annotation. Pour cela cliquez sur le bouton noir sous les mots-clés, puis sélectionnez le mode de publication : privé (Post to me) ou public (Post to public). Si vous travaillez dans un groupe, vous pouvez également publier l’annotation pour le groupe. Le menu vous proposera alors une option Post to « *nom-du-groupe *». 
 
+`r if (knitr::is_html_output()) '
 ![](img/img-5.gif)
+'`
+`r if (knitr::is_latex_output()) '
+![](img/img-5.png)
+'`
+'`
 
 Comment annoter (Source : [La maison des revues(2019)](http://www.maisondesrevues.org/1182))
 
