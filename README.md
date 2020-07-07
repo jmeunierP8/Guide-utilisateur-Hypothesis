@@ -1,1 +1,1 @@
-Rédaction d'un guide utiisateur en français pour l'outil d'annotation [Hypothesis](https://web.hypothes.is/)
+Ce manuel propose une synthèse en français des [tutoriels pour hypothesis](https://web.hypothes.is/help-categories/tutorials/). Je l'ai rédigé pour les étudiants de l'institut d'enseignement à distance de [l'université Paris 8](https://www.univ-paris8.fr/). Il est mis à disposition sous licence creative commons NC-BY-SA.
